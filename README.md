@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Vivek Wagh</h1>
 <div align="center"><strong >VJTI CS'25</strong></div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThatITguy14&label=Profile%20views&color=0e75b6&style=flat" alt="ThatITguy14" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e470gsqow5gfa4oi0jopdrq4lz1zp8sxggkal7jrym7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning _FULL-STACK Web Tools_
